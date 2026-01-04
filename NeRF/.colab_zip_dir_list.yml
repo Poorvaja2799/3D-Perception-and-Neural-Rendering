@@ -1,0 +1,9 @@
+required_directories:
+  - src
+  - tests
+required_files:
+  - setup.cfg
+  - lego_data_update.npz
+  - pyproject.toml
+optional_files:
+  - README.txt
